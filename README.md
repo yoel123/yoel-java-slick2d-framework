@@ -8,6 +8,8 @@ the raw code is inside "raw code" folder.
 the eclipse project is in "eclipse exports", to see the tuts in action use export all.
 to create your own peoject export "blank_project".
 
+picking sticks port/clone:
+https://github.com/yoel123/yoel-java-slick2d-framework-picking-sticks
 
 if theirs any mistake or something you dont understand please contact me.
 
