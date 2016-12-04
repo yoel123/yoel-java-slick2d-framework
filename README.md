@@ -6,7 +6,7 @@ https://github.com/yoel123/yoel-html5-game-engine-tutorials
 
 the raw code is inside "raw code" folder.
 the eclipse project is in "eclipse exports", to see the tuts in action use export all.
-to create your own peoject export blank_project.
+to create your own peoject export "blank_project".
 
 
 if theirs any mistake or something you dont understand please contact me.
