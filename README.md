@@ -4,6 +4,9 @@ it works almost the same as my js engine. you can take a look at it:
 
 https://github.com/yoel123/yoel-html5-game-engine-tutorials
 
+for video tutorials:
+https://www.youtube.com/channel/UCVytGTIkZpg6m_WYmA_77Iw/playlists
+
 the raw code is inside "raw code" folder.
 the eclipse project is in "eclipse exports", to see the tuts in action use export all.
 to create your own peoject export "blank_project".
